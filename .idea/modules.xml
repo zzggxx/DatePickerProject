@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DatePickerDialog/DatePickerDialog.iml" filepath="$PROJECT_DIR$/DatePickerDialog/DatePickerDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DatePickerDialog_TimePickerDialog/DatePickerDialog_TimePickerDialog.iml" filepath="$PROJECT_DIR$/DatePickerDialog_TimePickerDialog/DatePickerDialog_TimePickerDialog.iml" />
       <module fileurl="file://$PROJECT_DIR$/DatePickerProject.iml" filepath="$PROJECT_DIR$/DatePickerProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/Datepicker_TimePicker/Datepicker_TimePicker.iml" filepath="$PROJECT_DIR$/Datepicker_TimePicker/Datepicker_TimePicker.iml" />
     </modules>

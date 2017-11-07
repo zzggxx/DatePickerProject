@@ -48,7 +48,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void initViewDatePickerDialog() {
-        btnDatePickerDialog = (Button) findViewById(R.id.dateChooseDialog);
         dateDisplay = (TextView) findViewById(R.id.dateDisplay);
 
         btnDatePickerDialog.setOnClickListener(new View.OnClickListener() {
